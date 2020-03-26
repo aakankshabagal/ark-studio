@@ -337,7 +337,7 @@ b{
   font-size: 18px;
 }
 
-.footer_widget{
+#footer_widget{
   
   display: flex;
   justify-content:space-between;
