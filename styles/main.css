@@ -424,8 +424,13 @@ address{
   margin-left: 0%;
 }
 
-.services-wrapper{
+.services{
     margin-top: -5%;
+}
+
+.wrapper{
+    font-family: Arial, Helvetica, sans-serif;
+    margin: 0px;
 }
 
 .imgbrand{
